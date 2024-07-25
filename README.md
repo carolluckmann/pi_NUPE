@@ -11,7 +11,7 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 Equipe:
 - [Carolina Lückmann](github.com/carolluckmann)
 - [Evelyn Araújo](github.com/EvelyncAraujo)
-- [Julia Alves](github.com/JuliaAlves26)
+- [Julia Alves](github.com/JuliaOliveira26)
 - [Rafaella Ulbrich](github.com/rafaaulbrich)
 
 Links do projeto:
